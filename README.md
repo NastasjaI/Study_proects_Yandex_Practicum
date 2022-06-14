@@ -1,6 +1,6 @@
 # Study_proects_Yandex_Practicum
 ## Yandex.Praktikum Data Science Projects
-### Некоторые учебные проекты, созданные в рамках курса "Специалист Data Science" (Яндекс.Практикум)
+### Отдельные учебные проекты, созданные в рамках курса "Специалист Data Science" (Яндекс.Практикум)
 
 О курсе / About program<br>
 Ссылка на курс: https://praktikum.yandex.ru/data-scientist/<br>
