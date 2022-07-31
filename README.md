@@ -8,3 +8,4 @@
 ### Содержание: / Content:<br>
 Машинное обучение в бизнесе / Machine learning in business - 01_proect<br>
 Машинное обучение для текстов / Machine learning for texts - 02_proect
+Прогноз оттока клиентов оператора сотовой связи/ Telecom - 03_proect
