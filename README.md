@@ -6,6 +6,8 @@
 Ссылка на курс: https://praktikum.yandex.ru/data-scientist/<br>
 <br>
 ### Содержание: / Content:<br>
-Машинное обучение в бизнесе / Machine learning in business - 01_proect<br>
-Машинное обучение для текстов / Machine learning for texts - 02_proect
-Прогноз оттока клиентов оператора сотовой связи/ Telecom - 03_proect
+1. Stat - Статистический анализ данных/Statistical data analysis
+2. Oil - Машинное обучение в бизнесе / Machine learning in business
+3. Boost - Численные методы/Numerical methods
+4. Lemm - Машинное обучение для текстов / Machine learning for texts
+5. Telecom - Финальный проект/Final project
