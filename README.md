@@ -11,3 +11,4 @@
 3. Boost - Численные методы/Numerical methods
 4. Lemm - Машинное обучение для текстов / Machine learning for texts
 5. Telecom - Финальный проект/Final project
+6. Time - временные ряды/Time series
