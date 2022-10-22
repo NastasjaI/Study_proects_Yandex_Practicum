@@ -12,3 +12,4 @@
 4. Lemm - Машинное обучение для текстов / Machine learning for texts
 5. Telecom - Финальный проект/Final project
 6. Time - временные ряды/Time series
+7. Matrix - Защита персональных данных/personal data protection
